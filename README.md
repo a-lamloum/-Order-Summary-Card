@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/order-summary-card-GBy1kIinr1)
 - Live Site URL: [live site URL here](https://a-lamloum.github.io/-Order-Summary-Card/)
 
 ## My process

@@ -140,6 +140,7 @@ section p {
 .cta a:hover {
   color: var(--dark-blue);
   cursor: pointer;
+  text-decoration: none;
 }
 
 footer {
